@@ -2,7 +2,7 @@
 
 This is a simple marketing website I built for a fictional gym bag brand called **GrindGear**. It was created as part of a project to practice web development skills using **HTML**, **CSS**, **vanilla JavaScript**, and **Bootstrap**. I also added some scroll animations using the **AOS (Animate On Scroll)** library.
 
-## Here is the link to checko out the site [Visit GrindGear Website](https://grind-gear.netlify.app)
+## Here is the link to check out the site [ GrindGear Website](https://grind-gear.netlify.app)
 
 ## 🧠 Project Brief
 
